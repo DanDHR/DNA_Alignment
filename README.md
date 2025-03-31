@@ -1,6 +1,6 @@
-_This code identifies the most similar sequence between a mystery dna sequence of a dog breed and a list of dna sequences from another 99 dog breeds. Futhermore, the code will provide the user with additional information, in the form of:
-1)Shell output that details the statistics of the sequence similarity scores
-2)A plot of the phylogenetic tree of those dog breeds. _<br /> 
+_This code identifies the most similar sequence between a mystery dna sequence of a dog breed and a list of dna sequences from another 99 dog breeds. Futhermore, the code will provide the user with additional information, in the form of:_<br />
+_1) Shell output that details the statistics of the sequence similarity scores._<br />
+_2) A plot of the phylogenetic tree of those dog breeds._<br /> 
 
 # DNA_Alignment
 
